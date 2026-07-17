@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1432
+slug  : the-blind-spot
+seal  : 6761320ae677b4edeaf1b9e0d1e489fb4e9ccd8dba465132c50299d0cf4a7b11
+prev  : 4f324bf104f0cdce1039b1f1eca7a9d61fa8121fee8f3bcfd93b855a04452bed
+link  : 457cafbdb2454b8100975c37792fb3eee3e11fa6d650dfb3534df5fd6cf85ff4
+head  : 121ec7c1a8b67222eee3c4aac4dc8c6a92ef16e843f99b69bf312862522ae0bd
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
